@@ -1,0 +1,15 @@
+.title {
+  font-size: 2rem;
+  text-align: center;
+  font-weight: 700;
+  font-style: normal;
+  font-family: 'Poppins', sans-serif;
+}
+
+.subtitle {
+  font-size: 1.4rem;
+  text-align: center;
+  font-weight: 500;
+  font-style: oblique;
+  font-family: inherit;
+}
