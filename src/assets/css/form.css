@@ -27,7 +27,9 @@ input[type='text'] {
   font-size: 1.1rem;
 }
 
-input[type='submit'] {
+input[type='submit'],
+button,
+.button {
   width: 100%;
   padding: 0.8rem;
   background-color: green;
@@ -37,7 +39,9 @@ input[type='submit'] {
   border-radius: 0.3rem;
   cursor: pointer;
 }
-input[type='submit']:hover {
+input[type='submit']:hover,
+button:hover,
+.button:hover {
   background-color: greenyellow;
   color: black;
 }
